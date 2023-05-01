@@ -1,5 +1,5 @@
 
-Rock Paper Scissors Game
+Rock Paper Scissors Game.
 This is a Python program that allows you to play the Rock Paper Scissors game against different computer players. The program has several different player modes, including:
 
 Random: the computer player chooses its move randomly each round.
